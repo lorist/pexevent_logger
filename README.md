@@ -5,7 +5,7 @@ Quick and dirty flask app to log connect and disconnect events
 
 `source venv/bin/activate`
 
-`pip install -r requirements.txt`
+`pip install flask`
 
 I use ngrok to quickly setup a publicly accessible URL to send the Pexip Event Sinks
 
